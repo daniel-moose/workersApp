@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplicatie</string>
+    <string-array name="Meserii">
+        <item>Instalator</item>
+        <item>Electrician</item>
+        <item>Montator</item>
+        <item>Mecanic</item>
+        <item>Frizer</item>
+    </string-array>
+    <string-array name="serviceType">
+        <item>Doar rezervari</item>
+        <item>Doar comenzi</item>
+        <item>Comenzi si rezervari</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

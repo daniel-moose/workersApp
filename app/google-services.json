@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112674974172",
+    "firebase_url": "https://aplicatielogin-default-rtdb.firebaseio.com",
+    "project_id": "aplicatielogin",
+    "storage_bucket": "aplicatielogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112674974172:android:83a49cdd4d5960b8b4c719",
+        "android_client_info": {
+          "package_name": "com.example.aplicatie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112674974172-oq5kjtqul85n6263rb0uckacd0e7ddq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplicatie",
+            "certificate_hash": "0f3834978eac9e1bcc8ce2393ec6f9203e364c38"
+          }
+        },
+        {
+          "client_id": "112674974172-gdd3gqe5klqnap8emd8l62fmos6gb6r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxfTTKA5YRrG62J-kHsETH5hWGj6RWRYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112674974172-gdd3gqe5klqnap8emd8l62fmos6gb6r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
